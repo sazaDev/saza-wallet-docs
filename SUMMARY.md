@@ -1,15 +1,18 @@
 # Table of contents
 
 * [Saza Wallet User Guide](README.md)
+* [FAQ](faq.md)
 
 ## Authentication
 
 * [Sign Up](authentication/sign-up.md)
+* [Account Activation](authentication/account-activation.md)
 * [Login](authentication/login.md)
-* [Reset Password](authentication/change-password.md)
-* [Request Password Reset](authentication/request-password-reset.md)
 * [Two Factor Authentication](authentication/two-factor-authentication.md)
+* [Request Password Reset](authentication/request-password-reset.md)
+* [Reset Password](authentication/change-password.md)
 * [Login with Stellar Private Key](authentication/login-with-stellar-private-key.md)
+* [Account Setup](authentication/account-setup.md)
 
 ## Wallet Actions
 

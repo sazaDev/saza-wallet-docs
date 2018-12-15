@@ -28,6 +28,7 @@
 * [Claim Lumens](wallet-actions/claim-lumens.md)
 * [Reclaim Lumens](wallet-actions/reclaim-lumens.md)
 * [Settings](wallet-actions/settings.md)
+* [Sign Transaction](wallet-actions/sign-transaction.md)
 
 ## Stellar Operations
 

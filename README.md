@@ -6,3 +6,9 @@ description: >-
 
 # Saza Wallet User Guide
 
+* [Go to website: https://saza.io](https://saza.io)
+* [Visit FAQs](faq.md)
+* [Explore Guide](authentication/sign-up.md)
+
+
+

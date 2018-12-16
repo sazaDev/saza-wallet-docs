@@ -32,7 +32,7 @@
 
 ## Stellar Operations
 
-* [Payment](stellar-operations/payment.md)
+* [Payment](stellar-operations/send-payment.md)
 * [Path Payment](stellar-operations/untitled.md)
 * [Change Trust](stellar-operations/change-trust.md)
 * [Allow Trust](stellar-operations/allow-trust.md)
